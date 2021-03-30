@@ -1,0 +1,38 @@
+.container>header>div>div>.blog-header-logo{
+  font-size: 3em;
+}
+
+.header>div,p,h1,h2,h3{
+
+}
+
+.purpleText{
+  color: blueviolet;
+}
+
+.blog-post:nth-child(1){
+  background-color: blueviolet !important;
+}
+nav a:nth-child(2n){
+  color: blueviolet;
+}
+
+.blog-post:nth-last-child(2){
+  background-color: blueviolet;
+}
+
+.blog-sidebar div:nth-child(2) li{
+  background-color: blueviolet;
+}
+
+.blog-post-meta a:nth-child(2){
+  background-color: aqua !important;
+}
+
+footer p:nth-last-child(1) a{
+  background-color: aqua;
+}
+
+footer{
+  background-color: yellow;
+}
